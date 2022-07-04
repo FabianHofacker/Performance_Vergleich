@@ -1,0 +1,23 @@
+L = [[liste[0][2], liste[0][3]],#
+         [liste[0][6], liste[0][7]],#
+         [liste[0][7], liste[0][8]],#
+         [liste[0][8], liste[0][9]],#
+         [liste[0][9], liste[0][10]],#
+         [liste[0][10], liste[0][11]],#
+         [liste[0][11], liste[0][12]],#
+         [liste[0][15], liste[0][16]],#
+         [liste[0][17], liste[0][20]],#
+         [liste[0][18], liste[0][19]],#
+         [liste[0][21], liste[0][22]],#
+         [liste[0][22], liste[0][23]],##
+         [liste[0][24], liste[0][25]],#
+         [liste[0][25], liste[0][26]],##
+         [liste[0][26], liste[0][27]],#
+         [liste[0][27], liste[0][28]],#
+         [liste[0][28], liste[0][29]],#
+         [liste[0][42], liste[0][43]],#
+         [liste[0][43], liste[0][44]],#
+         [liste[0][44], liste[0][45]],#
+         [liste[0][45], liste[0][46]],#
+         [liste[0][46], liste[0][47]],#
+         [liste[0][47], liste[0][48]]]#
